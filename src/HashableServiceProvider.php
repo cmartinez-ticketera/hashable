@@ -16,6 +16,6 @@ class HashableServiceProvider extends PackageServiceProvider
          */
         $package
             ->name('hashable')
-            ->hasConfigFile();;
+            ->hasConfigFile();
     }
 }

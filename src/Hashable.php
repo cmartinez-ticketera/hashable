@@ -45,4 +45,3 @@ trait Hashable
         return $this->hash === $hash;
     }
 }
-
